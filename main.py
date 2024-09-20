@@ -1,6 +1,5 @@
 a = int(input(print('Введите число')))
 print(a)
-a = 18
 s = []
 n = 1
 m = 2
